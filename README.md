@@ -1,9 +1,9 @@
-### Oi, aqui é o Patric Alison, Estudante em Desenvolvimento e Analista de Sistemas
+### Oi, aqui é o Patric Alison, Desenvolvedor e Analista de Sistemas
 
 ## 🖥️Sobre mim🖥️:
 <div>
   <p>
-    Sou um estudante <strong>Desenvolvedor</strong>, adora tecnologia, possuo experiencia em linguagens de <strong>Desenvolvimento Web</strong>, uso as linguagens mais usadas no mercado relacionado a sistemas web responsivo, modernos e adaptaveis (Conhecimento em: ASP.NET MVC 5, Bootstrap, Wordpress, Html, Css, Javascript, C#, Php, Myslq e SqlServer).
+    Sou um programador <strong>Desenvolvedor</strong>, adora tecnologia, possuo experiencia em linguagens de <strong>Desenvolvimento Web</strong>, uso as linguagens mais usadas no mercado relacionado a sistemas web responsivo, modernos e adaptaveis (Conhecimento em: ASP.NET MVC 5, Bootstrap, Wordpress, Html, Css, Javascript, C#, Php, Myslq e SqlServer).
   </p>
 </div>
 
